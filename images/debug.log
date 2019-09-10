@@ -1,0 +1,4 @@
+[0616/100919.688:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0616/100919.688:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0616/100919.704:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0825/232920.455:ERROR:registration_protocol_win.cc(56)] CreateFile: The system cannot find the file specified. (0x2)
