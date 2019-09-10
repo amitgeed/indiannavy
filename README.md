@@ -1,2 +1,3 @@
 # indiannavy
-Information Of Indian Navy
+The demo project on Indian Navy
+Created Using HTML and CSS
